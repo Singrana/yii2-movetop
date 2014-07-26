@@ -1,0 +1,27 @@
+{
+    "name": "singrana/yii2-movetop",
+    "description": "Yii2 movetop widget",
+    "type": "yii2-extension",
+    "keywords": ["yii2","widget","move top"],
+    "license": "MIT",
+    "authors":
+    [
+        {
+            "name": "Singrana",
+            "email": "singrana@singrana.com"
+        }
+    ],
+	"require":
+	{
+		"php": ">=5.4",
+		"singrana/yii2-fontAwesome": "*"
+		"singrana/yii-less": "*"
+	},
+    "autoload":
+    {
+        "psr-4":
+        {
+            "singrana\\widgets\\": ""
+        }
+    }
+}
