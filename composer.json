@@ -14,7 +14,7 @@
 	"require":
 	{
 		"php": ">=5.4",
-		"singrana/yii2-fontAwesome": "*"
+		"singrana/yii2-fontAwesome": "*",
 		"singrana/yii-less": "*"
 	},
     "autoload":
