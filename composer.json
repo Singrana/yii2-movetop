@@ -17,6 +17,13 @@
 		"singrana/yii2-fontAwesome": "*",
 		"singrana/yii-less": "*"
 	},
+	"repositories":
+	[
+		{
+			"type":"composer",
+			"url":"http://packagist.org"
+		}
+	],
     "autoload":
     {
         "psr-4":
